@@ -1,0 +1,11 @@
+{"orderNumber":0,"name":"男性毁灭者","characteristicType":3,"Describe":"","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":1,"name":"钝器专精","characteristicType":1,"Describe":"","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":2,"name":"弯道高手","characteristicType":2,"Describe":"","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":4,"name":"激素强化","characteristicType":1,"Describe":"凶恶怪物挣脱束缚现型，只需一次超剂量的紧急注射","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":-4,"effect":"-%50"}]}
+{"orderNumber":5,"name":"极效反射神经","characteristicType":1,"Describe":"所有的一切都太慢了","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":6,"name":"机会主义","characteristicType":1,"Describe":"机会就在那里","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":7,"name":"背袭","characteristicType":1,"Describe":"当偷袭成了艺术，它的历史讲义源远流长","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":8,"name":"荣誉猎犬","characteristicType":1,"Describe":"胜利本身就足以让其热血沸腾、奋不顾身","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":9,"name":"数据流接口","characteristicType":1,"Describe":"手部改造使得人机一体不再留存于次时代概念","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""}]}
+{"orderNumber":10,"name":"特权阶级","characteristicType":2,"Describe":"一切的欲求都能被满足，万众瞩目的中心","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":14,"effect":"99"},{"effectType":0,"effect":""}]}
+{"orderNumber":11,"name":"半机械之躯","characteristicType":1,"Describe":"人们好奇于它还存在着多少人的部分","CHtemp":["","","","","","","",""],"CHEffects":[{"effectType":0,"effect":""},{"effectType":0,"effect":""}]}

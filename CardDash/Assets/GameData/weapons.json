@@ -1,0 +1,11 @@
+{"orderNumber":0,"name":"长矛","weaponType":1,"damage":1,"wanted":2,"price":0,"characteristics":[]}
+{"orderNumber":1,"name":"重型锁链","weaponType":1,"damage":1,"wanted":1,"price":1,"characteristics":[]}
+{"orderNumber":2,"name":"砍刀","weaponType":1,"damage":2,"wanted":2,"price":1,"characteristics":[]}
+{"orderNumber":3,"name":"电锯","weaponType":1,"damage":4,"wanted":4,"price":5,"characteristics":[]}
+{"orderNumber":4,"name":"关刀","weaponType":1,"damage":3,"wanted":3,"price":2,"characteristics":[]}
+{"orderNumber":5,"name":"大铁锤","weaponType":1,"damage":2,"wanted":2,"price":2,"characteristics":[]}
+{"orderNumber":6,"name":"投掷飞刀","weaponType":0,"damage":1,"wanted":2,"price":1,"characteristics":[]}
+{"orderNumber":7,"name":"手枪","weaponType":0,"damage":2,"wanted":3,"price":5,"characteristics":[]}
+{"orderNumber":8,"name":"霰弹枪","weaponType":0,"damage":3,"wanted":4,"price":10,"characteristics":[]}
+{"orderNumber":9,"name":"冲锋枪","weaponType":0,"damage":3,"wanted":4,"price":12,"characteristics":[]}
+{"orderNumber":10,"name":"车载机枪","weaponType":0,"damage":4,"wanted":6,"price":20,"characteristics":[]}

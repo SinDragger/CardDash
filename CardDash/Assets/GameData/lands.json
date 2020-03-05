@@ -1,0 +1,11 @@
+{"orderNumber":1,"name":"直道","complex":3,"length":60}
+{"orderNumber":6,"name":"S型弯道","complex":6,"length":50}
+{"orderNumber":4,"name":"隧道","complex":4,"length":50}
+{"orderNumber":7,"name":"L型直道","complex":5,"length":40}
+{"orderNumber":3,"name":"短弯道","complex":5,"length":30}
+{"orderNumber":2,"name":"长弯道","complex":4,"length":40}
+{"orderNumber":9,"name":"桥梁","complex":3,"length":70}
+{"orderNumber":8,"name":"悬崖","complex":4,"length":25}
+{"orderNumber":5,"name":"高架","complex":4,"length":65}
+{"orderNumber":0,"name":"直道","complex":2,"length":80}
+{"orderNumber":10,"name":"Z型弯道","complex":7,"length":40}

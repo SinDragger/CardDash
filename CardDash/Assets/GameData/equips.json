@@ -1,0 +1,6 @@
+{"orderNumber":0,"name":"真空胎","equipType":1,"price":10,"effectLevel":1,"characteristics":[]}
+{"orderNumber":1,"name":"ABS制动","equipType":2,"price":10,"effectLevel":1,"characteristics":[]}
+{"orderNumber":2,"name":"凸轮轴发动机","equipType":3,"price":20,"effectLevel":1,"characteristics":[]}
+{"orderNumber":3,"name":"BKC点火","equipType":4,"price":10,"effectLevel":1,"characteristics":[]}
+{"orderNumber":4,"name":"避震器","equipType":5,"price":10,"effectLevel":1,"characteristics":[]}
+{"orderNumber":6,"name":"氮气加速","equipType":0,"price":5,"effectLevel":1,"characteristics":[]}
